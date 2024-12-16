@@ -11,7 +11,41 @@
 # 3) Complex: 2+1j
 # 4) Boolean: True are False -->
 
-# Example
+#Example
+#1) integer
 # a=10
 # print(a)
 # print(type(a))
+
+# #2)Folat
+# a=2.5
+# print(a)
+# print(type(a))
+
+#3)Complex
+# a=24+2j
+# print(a)
+# print(a.real)
+# print(a.imag)
+# print(type(a.real))
+
+#4)string
+# a="cnu"
+# print(a)
+# print(type(a))
+
+#what is type Converstion ?
+#To Convert one data type into another data type is called type Converstion
+
+#Example
+# a=24
+# print(type(a))
+# print(float(a))
+# print(type(float(a)))
+
+#Give data in run time
+#Hie_tech= int(input("Enter how many Student are there"))
+#print(Hie_tech)
+#or
+#cnu=input("Enter name of the student")
+#print(cnu)
