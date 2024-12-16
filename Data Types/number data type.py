@@ -29,7 +29,11 @@
 # print(a.imag)
 # print(type(a.real))
 
-#4)string
+# #4)Boolean
+# Apple=True
+# print(type(Apple))
+
+#5)string
 # a="cnu"
 # print(a)
 # print(type(a))
