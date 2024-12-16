@@ -3,9 +3,8 @@
 # b=8
 # print(a,b)
 
-a=2
-b=5
-print(a,b)
+# a,b=9,1
+# print(a,b)
 
 # Variables declare a variable with Alpanumeric characters. 
 # a to z or A to Z or Number to number
@@ -34,7 +33,8 @@ print(a,b)
 # def sample ():
 #     t=24
 #     print(t)
-# function calling <--simple ()
+# function calling using in <--simple ()
+#simple()
 # print(t)
 
 # global variable: The variable which we declear outside of fuction is called global variable.
